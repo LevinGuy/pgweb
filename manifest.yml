@@ -1,0 +1,8 @@
+---
+applications:
+- name: pgweb-test
+  host: pgweb-test
+  memory: 128M 
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git#v1.7.19
+  path: .
