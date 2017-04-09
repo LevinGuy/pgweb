@@ -9,13 +9,13 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/jessevdk/go-flags"
 
-	"github.com/sosedoff/pgweb/pkg/api"
-	"github.com/sosedoff/pgweb/pkg/bookmarks"
-	"github.com/sosedoff/pgweb/pkg/client"
-	"github.com/sosedoff/pgweb/pkg/command"
-	"github.com/sosedoff/pgweb/pkg/connection"
-	"github.com/sosedoff/pgweb/pkg/shared"
-	"github.com/sosedoff/pgweb/pkg/util"
+	"github.com/LevinGuy/pgweb/pkg/api"
+	"github.com/LevinGuy/pgweb/pkg/bookmarks"
+	"github.com/LevinGuy/pgweb/pkg/client"
+	"github.com/LevinGuy/pgweb/pkg/command"
+	"github.com/LevinGuy/pgweb/pkg/connection"
+	"github.com/LevinGuy/pgweb/pkg/shared"
+	"github.com/LevinGuy/pgweb/pkg/util"
 )
 
 var options command.Options

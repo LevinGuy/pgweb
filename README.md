@@ -2,7 +2,7 @@
 
 Web-based PostgreSQL database browser written in Go.
 
-[![Release](https://img.shields.io/github/release/sosedoff/pgweb.svg?label=Release)](https://github.com/sosedoff/pgweb/releases)
+[![Release](https://img.shields.io/github/release/sosedoff/pgweb.svg?label=Release)](https://github.com/LevinGuy/pgweb/releases)
 [![Linux Build](https://img.shields.io/travis/sosedoff/pgweb/master.svg?label=Linux)](https://travis-ci.org/sosedoff/pgweb)
 [![Windows Build](https://img.shields.io/appveyor/ci/sosedoff/pgweb/master.svg?label=Windows)](https://ci.appveyor.com/project/sosedoff/pgweb)
 
@@ -30,7 +30,7 @@ application to work with local or remote PostgreSQL databases.
 - Query history
 - Server bookmarks
 
-Visit [WIKI](https://github.com/sosedoff/pgweb/wiki) for more details
+Visit [WIKI](https://github.com/LevinGuy/pgweb/wiki) for more details
 
 ## Demo
 
@@ -38,10 +38,10 @@ Visit https://pgweb-demo.herokuapp.com to see pgweb in action.
 
 ## Installation
 
-[Precompiled binaries](https://github.com/sosedoff/pgweb/releases) for supported 
+[Precompiled binaries](https://github.com/LevinGuy/pgweb/releases) for supported 
 operating systems are available.
 
-[More installation options](https://github.com/sosedoff/pgweb/wiki/Installation)
+[More installation options](https://github.com/LevinGuy/pgweb/wiki/Installation)
 
 ## Usage
 
@@ -79,7 +79,7 @@ SESSIONS=1 pgweb
 
 ## Deploy on Heroku
 
-[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sosedoff/pgweb)
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LevinGuy/pgweb)
 
 ## Testing
 
@@ -107,8 +107,8 @@ make test-all
 - Commit your changes
 - Execute test suite
 - Push your code and open a new pull request
-- Use [issues](https://github.com/sosedoff/pgweb/issues) for any questions
-- Check [wiki](https://github.com/sosedoff/pgweb/wiki) for extra documentation
+- Use [issues](https://github.com/LevinGuy/pgweb/issues) for any questions
+- Check [wiki](https://github.com/LevinGuy/pgweb/wiki) for extra documentation
 
 ## Contact
 

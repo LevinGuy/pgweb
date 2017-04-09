@@ -8,7 +8,7 @@ RUN \
   apk add ca-certificates && \
   update-ca-certificates && \
   cd /tmp && \
-  wget https://github.com/sosedoff/pgweb/releases/download/v$PGWEB_VERSION/pgweb_linux_amd64.zip && \
+  wget https://github.com/LevinGuy/pgweb/releases/download/v$PGWEB_VERSION/pgweb_linux_amd64.zip && \
   unzip pgweb_linux_amd64.zip -d /usr/bin && \
   mv /usr/bin/pgweb_linux_amd64 /usr/bin/pgweb && \
   rm -f pgweb_linux_amd64.zip

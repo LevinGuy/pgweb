@@ -5,7 +5,7 @@ import (
 	"os/user"
 	"testing"
 
-	"github.com/sosedoff/pgweb/pkg/command"
+	"github.com/LevinGuy/pgweb/pkg/command"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -13,8 +13,8 @@ import (
 
 	"golang.org/x/crypto/ssh"
 
-	"github.com/sosedoff/pgweb/pkg/connection"
-	"github.com/sosedoff/pgweb/pkg/shared"
+	"github.com/LevinGuy/pgweb/pkg/connection"
+	"github.com/LevinGuy/pgweb/pkg/shared"
 )
 
 const (

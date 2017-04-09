@@ -6,8 +6,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/sosedoff/pgweb/pkg/command"
-	"github.com/sosedoff/pgweb/pkg/data"
+	"github.com/LevinGuy/pgweb/pkg/command"
+	"github.com/LevinGuy/pgweb/pkg/data"
 )
 
 // Middleware function to check database connection status before running queries

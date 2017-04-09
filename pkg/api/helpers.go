@@ -10,7 +10,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/sosedoff/pgweb/pkg/shared"
+	"github.com/LevinGuy/pgweb/pkg/shared"
 )
 
 var extraMimeTypes = map[string]string{

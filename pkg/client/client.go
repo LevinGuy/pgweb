@@ -9,11 +9,11 @@ import (
 	_ "github.com/lib/pq"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/sosedoff/pgweb/pkg/command"
-	"github.com/sosedoff/pgweb/pkg/connection"
-	"github.com/sosedoff/pgweb/pkg/history"
-	"github.com/sosedoff/pgweb/pkg/shared"
-	"github.com/sosedoff/pgweb/pkg/statements"
+	"github.com/LevinGuy/pgweb/pkg/command"
+	"github.com/LevinGuy/pgweb/pkg/connection"
+	"github.com/LevinGuy/pgweb/pkg/history"
+	"github.com/LevinGuy/pgweb/pkg/shared"
+	"github.com/LevinGuy/pgweb/pkg/statements"
 )
 
 type Client struct {
